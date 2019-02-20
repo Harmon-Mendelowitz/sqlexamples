@@ -1,9 +1,9 @@
 # ER Diagram & MySQL Homework
 
-**Your Name**
- - your_email@gwu.edu
- - your github username
-
+**Harmon Mendelowitz**
+ - mendelowitz@gwu.edu
+ - HarmonMendelowitz
+ 
 ## Homework submission READ CAREFULLY
 ### Question 1:
 Upload your solution to this as a PDF file. There are many software out there that can be used to create this ER in a digital format. Please rename [GWnetID_University_ER_solution.pdf](GWnetID_University_ER_solution.pdf) using your own GWnetID and then overwrite the file with your own PDF.
